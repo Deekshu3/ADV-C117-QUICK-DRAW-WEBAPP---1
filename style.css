@@ -1,0 +1,30 @@
+body
+{
+    background: linear-gradient(rgb(153, 255, 230),rgb(34, 54, 231));
+}
+
+h1
+{
+    background-color: cornsilk;
+    color: rgb(54, 215, 255);
+}
+
+#your_sketch 
+{
+    float:right;
+}
+
+#score
+{
+    font-size: 21px;
+    font-family:'Oswald',sans-serif;
+    margin-left: 5px;
+}
+
+#timer
+{
+    float: right;
+    font-size: 21px;
+    font-family:'Oswald',sans-serif;
+    margin-right: 5px;
+}
